@@ -1,0 +1,4 @@
+"Groupe","Profil","Nb_bibliotheques","Population_mediane","Succursales_medianes","Heures_ouverture_medianes","Superficie_mediane","Ratio_abonnes_median","Indice_technologique_median"
+1,"Grands réseaux de bibliothèques",58,90043,5,251,51955,0.244590577255881,-0.218446750379162
+2,"Bibliothèques locales intermédiaires",180,6001,1,38,4900,0.21875,-0.182274995725296
+3,"Petites bibliothèques à forte offre technologique",19,313,1,26,1000,0.913978494623656,0.730551026533755

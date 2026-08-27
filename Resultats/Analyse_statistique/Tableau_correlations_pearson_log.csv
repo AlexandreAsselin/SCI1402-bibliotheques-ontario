@@ -1,0 +1,6 @@
+"Relation","N","Coefficient","Valeur_p","R_carre"
+"Population desservie (log10)",294,-0.496,"< 0.001",0.246
+"Heures d'ouverture (log10)",294,-0.236,"< 0.001",0.056
+"Nombre de succursales (log10)",294,-0.184,"0.002",0.034
+"Superficie (log10)",257,-0.312,"< 0.001",0.097
+"Ratio abonnés/population (log10)",294,0.126,"0.03",0.016

@@ -1,0 +1,7 @@
+"Variable","N","Moyenne","Mediane","Ecart_type","Minimum","Maximum"
+"Population desservie",295,48104.95,6588,197522.49,48,2956024
+"Nombre de succursales",295,3.12,1,6.96,1,100
+"Heures d'ouverture",295,120.02,42.5,370.85,5,5697.75
+"Superficie",258,31197.93,6547.5,127371.45,118,1883890
+"Ratio abonnés/population",295,0.32,0.24,0.29,0,2.21
+"Indice de ressources technologiques",294,0,-0.19,0.61,-0.26,4.98
